@@ -1,0 +1,1 @@
+ContactSearch.searchForContacts(lastName, mailPostalCode);
